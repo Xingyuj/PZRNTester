@@ -1,0 +1,1 @@
+../../../../pointzi-pod/Pointzi/Headers/SHTipCarouselElement.h

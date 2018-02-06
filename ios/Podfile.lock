@@ -1,0 +1,18 @@
+PODS:
+  - pointzi (1.2.2):
+    - pointzi/Lite (= 1.2.2)
+  - pointzi/Lite (1.2.2)
+
+DEPENDENCIES:
+  - pointzi (from `./pointzi-pod/`)
+
+EXTERNAL SOURCES:
+  pointzi:
+    :path: ./pointzi-pod/
+
+SPEC CHECKSUMS:
+  pointzi: cf70f9ce1416f54752c2db69813af998b1902851
+
+PODFILE CHECKSUM: ec56b99faa0d1435e777ab6ee550a6ec71b1e609
+
+COCOAPODS: 1.3.1
